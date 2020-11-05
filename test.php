@@ -1,7 +1,7 @@
 <?PHP
 
 /*
-  Plugin Name: Test
+  Plugin Name: Test1
   Version: 1.0.0
   Author: os
 */
